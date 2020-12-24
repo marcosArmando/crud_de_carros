@@ -1,0 +1,22 @@
+.main-form {
+    padding: 50px;
+}
+
+.car-card {
+    padding: 1000px;
+}
+
+.car-image:hover {
+    height: 200px;
+    width: 300px;
+    background-color: tomato;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+}
+
+.center {
+    display: flex;
+    align-content: center;
+}
